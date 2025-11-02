@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         val suggestButton = findViewById<Button>(R.id.suggestButton)
         val resultText = findViewById<TextView>(R.id.resultText)
 
-        val moods = listOf("happy", "sad", "calm", "angry")
+        val moods = listOf("happy", "sad", "calm", "Excited")
         val adapter = ArrayAdapter(this, android.R.layout.simple_spinner_dropdown_item, moods)
         moodSpinner.adapter = adapter
 
