@@ -1,6 +1,6 @@
 # 🌻 MoodBook
 
-# 🌼 MoodBook
+
 
 MoodBook is a simple Android app that suggests a book based on your current mood.  
 It’s built using **Kotlin** and focuses on user interaction, basic logic, and clean UI design.
